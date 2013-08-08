@@ -1,0 +1,10 @@
+{
+  "name": "redis-ha",  
+  "version": "0.1.0",
+  "description": "Redis high-availability client library",
+  "main": "./redis-ha.js",
+  "dependencies": {
+	  "redis": ">=0.8.x",
+	  "extend": ">=1.1.x"
+  }
+}
