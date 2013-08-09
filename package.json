@@ -1,10 +1,19 @@
 {
   "name": "redis-ha",  
   "version": "0.1.0",
+  "author": { "name": "Aaron Silvas", "email": "asilvas@godaddy.com" },
   "description": "Redis high-availability client library",
   "main": "./redis-ha.js",
   "dependencies": {
 	  "redis": ">=0.8.x",
 	  "extend": ">=1.1.x"
-  }
+  },
+  "repository": {
+    "type" : "git",
+	"url" : "https://github.com/godaddy/node-redis-ha.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/godaddy/node-redis-ha",
+  "bugs": { "url": "https://github.com/godaddy/node-redis-ha/issues" },
+  "keywords": [ "redis", "ha", "high availability" ]
 }

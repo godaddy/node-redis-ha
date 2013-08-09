@@ -5,8 +5,7 @@ High availability Redis Client.
 
 ## Install
 
-	git clone https://github.secureserver.net/PC/node-dps.git
-	npm install
+	npm install redis-ha
 
 
 ## Usage
